@@ -1,6 +1,6 @@
 #!/bin/bash
 #==================================================#
-#  SCRIPT TO PUSH anisble playTO EC2 INSTANCES ====#
+# SCRIPT TO PUSH anisble play TO EC2 INSTANCES ====#
 #==================================================#
 work() {
     # put your job here 
